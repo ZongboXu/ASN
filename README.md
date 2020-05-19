@@ -1,4 +1,4 @@
-# ASN
+# ASN simulation and cross-correlation
 ambient seismic noise
 
 noisez.f90 is a Z-component ambient seismic data simulation program. This program is only for laterally homogeneous medium and only requires a Rayleigh-wave phase velocity file as the input, rayleighpv.dat. All seismic sources are set to be Rick wavelet, and the default certral frequency is 10Hz. 24 sensors are arranged near the origin, and the interval is 5m. The noise source distributions can be even, inline or outline. Users can change the source strengths by chaging the source number or taper windows. The output files are in SAC format per sensor. 

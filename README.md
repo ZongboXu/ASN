@@ -7,7 +7,7 @@ asncor.sh is a bash script for computing cross-correlations. The program calls S
 
 asncoh.sh is a bash script for computing cross-coherence (i.e. spectral normalized cross-correlation). The program calls cutsac.sh and asncoh.f90. The output coherence possesses both lags, the positive- and negative-time ones.
 
-References:
+###References:
 Xu, Z., Xia, J., Luo, Y., Cheng, F., & Pan, Y. (2016). [Potential misidentification of love-wave phase velocity based on three-component ambient seismic noise](https://doi.org/10.1007/s00024-015-1160-4). Pure and Applied Geophysics, 173(4), 1115-1124.
 
 Xu, Z., Dylan Mikesell, T., Xia, J., & Cheng, F. (2017). [A comprehensive comparison between the refraction microtremor and seismic interferometry methods for phase-velocity estimation](https://doi.org/10.1190/geo2016-0654.1). Geophysics, 82(6), EN99-EN108.
